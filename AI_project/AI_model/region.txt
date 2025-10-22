@@ -1,0 +1,68 @@
+xa-ar for Arabia
+xa-en for Arabia (en)
+ar-es for Argentina
+au-en for Australia
+at-de for Austria
+be-fr for Belgium (fr)
+be-nl for Belgium (nl)
+br-pt for Brazil
+bg-bg for Bulgaria
+ca-en for Canada
+ca-fr for Canada (fr)
+ct-ca for Catalan
+cl-es for Chile
+cn-zh for China
+co-es for Colombia
+hr-hr for Croatia
+cz-cs for Czech Republic
+dk-da for Denmark
+ee-et for Estonia
+fi-fi for Finland
+fr-fr for France
+de-de for Germany
+gr-el for Greece
+hk-tzh for Hong Kong
+hu-hu for Hungary
+in-en for India
+id-id for Indonesia
+id-en for Indonesia (en)
+ie-en for Ireland
+il-he for Israel
+it-it for Italy
+jp-jp for Japan
+kr-kr for Korea
+lv-lv for Latvia
+lt-lt for Lithuania
+xl-es for Latin America
+my-ms for Malaysia
+my-en for Malaysia (en)
+mx-es for Mexico
+nl-nl for Netherlands
+nz-en for New Zealand
+no-no for Norway
+pe-es for Peru
+ph-en for Philippines
+ph-tl for Philippines (tl)
+pl-pl for Poland
+pt-pt for Portugal
+ro-ro for Romania
+ru-ru for Russia
+sg-en for Singapore
+sk-sk for Slovak Republic
+sl-sl for Slovenia
+za-en for South Africa
+es-es for Spain
+se-sv for Sweden
+ch-de for Switzerland (de)
+ch-fr for Switzerland (fr)
+ch-it for Switzerland (it)
+tw-tzh for Taiwan
+th-th for Thailand
+tr-tr for Turkey
+ua-uk for Ukraine
+uk-en for United Kingdom
+us-en for United States
+ue-es for United States (es)
+ve-es for Venezuela
+vn-vi for Vietnam
+wt-wt for No region
